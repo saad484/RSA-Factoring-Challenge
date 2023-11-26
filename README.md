@@ -1,6 +1,6 @@
 # RSA-Factoring-Challenge
 
-![RSA-Image](images/RSA-img.JPG)
+![Alt text](image.png)
 
 ## Description
 
