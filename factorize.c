@@ -19,7 +19,7 @@ int factorize(char *buffer)
 	{
 		if (num % i == 0)
 		{
-			printf("%d=%d*%d\n",num,num/i,i);
+			printf("%d=%d*%d\n", num, num / i, i);
 			break;
 		}
 	}
